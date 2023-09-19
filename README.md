@@ -22,6 +22,7 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our community](https://fastn.com/discord) and ask questions in the *#ask-for-help* channel.
 
+
 ## Where to find everything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
